@@ -66,7 +66,7 @@
 4. **Report Pages**
    - **Overview** → Albums, Artists, Tracks (KPIs, trends, favorites).  
    - **Listening Patterns** → Heatmap (Day vs Hour), Scatter (Avg time vs Frequency).  
-   - **Drill-through** → Detailed breakdown by Album, Artist, Track, Platform, Date.    
+   - **Details** → Detailed breakdown by Album, Artist, Track, Platform, Date.    
 
 ---
 
@@ -78,7 +78,7 @@
 **Listening Patterns Heatmap**
 ![](https://github.com/ShrutiBisht30/Spotify-Listening-Analysis-Power-BI-/blob/main/images/Listening%20Pattern.JPG?raw=true)
 
-**High Engagement Tracks Scatter Plot**
+**Details**
 ![](https://github.com/ShrutiBisht30/Spotify-Listening-Analysis-Power-BI-/blob/main/images/Details.JPG?raw=true)
 
 ---
