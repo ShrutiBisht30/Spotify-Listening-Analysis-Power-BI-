@@ -72,7 +72,8 @@
 
 ## 🖼️ Screenshots  
 
-- Overview Dashboard  
+**Overview Dashboard**
+[Overview](https://github.com/ShrutiBisht30/Spotify-Listening-Analysis-Power-BI-/blob/main/images/Overview.JPG?raw=true)
 - Listening Patterns Heatmap  
 - High Engagement Tracks Scatter Plot  
 
