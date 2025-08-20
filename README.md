@@ -74,10 +74,13 @@
 
 **Overview Dashboard**
 [](https://github.com/ShrutiBisht30/Spotify-Listening-Analysis-Power-BI-/blob/main/images/Overview.JPG?raw=true)
+
 **Listening Patterns Heatmap**
 [](https://github.com/ShrutiBisht30/Spotify-Listening-Analysis-Power-BI-/blob/main/images/Listening%20Pattern.JPG?raw=true)
+
 **High Engagement Tracks Scatter Plot**
-[](https://github.com/ShrutiBisht30/Spotify-Listening-Analysis-Power-BI-/blob/main/images/Listening%20Pattern.JPG?raw=true)
+[](https://github.com/ShrutiBisht30/Spotify-Listening-Analysis-Power-BI-/blob/main/images/Details.JPG?raw=true)
+
 ---
 
 ## 🚀 Outcomes
